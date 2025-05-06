@@ -1,0 +1,46 @@
+[theme]
+primaryColor = "#006298"
+backgroundColor = "#fff"
+secondaryBackgroundColor = "#f1faee"
+textColor = "#008542"
+font = "sans serif"
+
+# Cores Petrobras
+
+# Verde Petrobras
+# RGB: R0 G133 B66
+# Hex: #008542
+
+# Amarelo Petrobras
+# RGB: R253 G200 B47
+# Hex: #FDC82F
+
+# Cores secundárias
+
+# Verde água
+# RGB: R0 G178 B169
+# Hex: #00B2A9
+
+# Verde claro
+# RGB: R196 G214 B0
+# Hex: #C4D600
+
+# Amarelo claro
+# RGB: R235 G255 B0
+# Hex: #EBFF00
+
+# Laranja
+# RGB: R237 G139 B0
+# Hex: #ED8B00
+
+# Cinza
+# RGB: R117 G120 B123
+# Hex: #75787B
+
+# Azul escuro
+# RGB: R0 G98 B152
+# Hex: #006298
+
+# Azul claro
+# RGB: R61 G218 B255
+# Hex: #3DDAFF
