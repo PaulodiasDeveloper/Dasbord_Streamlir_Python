@@ -91,4 +91,4 @@ Desenvolvedor do projeto e responsável pelas análises.
 
 ---
 
-[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://github.com/PaulodiasDeveloper/Dasbord_Streamlir_Python/blob/main/M%C3%ADdia/Buildings.mp4)
+https://github.com/user-attachments/assets/7ac3680e-93db-43b0-a105-e11cd373d3c7
