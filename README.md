@@ -90,3 +90,7 @@ Paulo Roberto
 Desenvolvedor do projeto e responsável pelas análises.
 
 ---
+
+https://github.com/user-attachments/assets/7ac3680e-93db-43b0-a105-e11cd373d3c7
+
+[![Assista ao vídeo](https://github.com/user-attachments/assets/7ac3680e-93db-43b0-a105-e11cd373d3c7)](https://github.com/user-attachments/assets/7ac3680e-93db-43b0-a105-e11cd373d3c7)

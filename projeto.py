@@ -28,7 +28,7 @@ df = pd.read_excel(
 # --- Criar sidebar
 
 with st.sidebar:
-    logo_teste = Image.open('./Mídia/logo vizion.png')
+    logo_teste = Image.open('./Mídia/data.png')
     st.image(logo_teste, width=300)
     st.subheader('Menu - DASHBOARD DE VENDAS')
     fVendedor = st.selectbox(
